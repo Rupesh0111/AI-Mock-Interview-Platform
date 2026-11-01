@@ -1,0 +1,10 @@
+# ai-service/requrements.txt
+fastapi
+uvicorn
+pydantic
+python-dotenv
+ollama
+openai-whisper
+pydub
+ffmpeg-python
+python-multipart
